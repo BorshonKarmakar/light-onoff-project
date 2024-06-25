@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+}
+img{
+    height: 300px;
+    width: 300px;
+    margin-left: 35%;
+    margin-top: 100px;
+}
+button{
+    padding: 15px 25px;
+    font-size: 25px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-left: 265px;
+}
+#off{
+    margin-left: 450px;
+}
